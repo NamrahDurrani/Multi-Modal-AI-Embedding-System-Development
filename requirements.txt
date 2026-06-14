@@ -1,0 +1,16 @@
+chromadb
+sentence-transformers
+faster-whisper
+transformers
+Pillow
+moviepy
+fastapi
+uvicorn
+nest-asyncio
+gradio
+torch
+torchvision
+accelerate
+sounddevice
+scipy
+gTTS
